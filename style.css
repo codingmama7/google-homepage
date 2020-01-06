@@ -1,0 +1,55 @@
+<style>
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#nav1 {
+        background-color:lightgray;
+        position: fixed;
+        bottom: 0;
+       width: 100%;
+        
+
+    }
+
+li {
+display: inline;
+font-family: arial, sans-serif;
+
+}
+
+a:link {
+color: black;
+background-color: transparent;
+text-decoration: none;
+font-size: 13px;
+padding: 0px 0px 0px 15px;
+}
+
+a:active {
+color: black;
+background-color: transparent;
+text-decoration: none;
+}
+
+a:visited {
+color: black;
+background-color: transparent;
+text-decoration: none;
+}
+
+a:hover {
+text-decoration: underline;
+color: black;
+background-color: transparent;
+font-size: 13px;
+}
+
+img {
+padding: 109px 0px 0px;
+}
+
+</style>
