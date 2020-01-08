@@ -8,15 +8,12 @@ ul {
         background-color:lightgray;
         position: fixed;
         bottom: 0;
-       width: 100%;
-        
-
+        width: 100%;
     }
 
 li {
 display: inline;
 font-family: arial, sans-serif;
-
 }
 
 a:link {
